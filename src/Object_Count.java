@@ -1,5 +1,6 @@
 
 public class Object_Count {
+//	WAP to count number of objects in a class.
 	//variable to keep track of objects  
 		private static int count;  
 		//constructor of the class  
